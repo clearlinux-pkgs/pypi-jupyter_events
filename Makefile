@@ -1,5 +1,5 @@
 PKG_NAME := pypi-jupyter_events
-URL = https://files.pythonhosted.org/packages/d0/b0/7afcd1d66834f43d08ec47c861a5540d7ad57eab47605ccd83429c147755/jupyter_events-0.6.3.tar.gz
+URL = https://files.pythonhosted.org/packages/3f/0a/1c839290324ab93dc79950eaf26e198578db8b27edb587082b6061f4f9f5/jupyter_events-0.7.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
