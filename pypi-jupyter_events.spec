@@ -7,7 +7,7 @@
 #
 Name     : pypi-jupyter_events
 Version  : 0.12.0
-Release  : 16
+Release  : 17
 URL      : https://files.pythonhosted.org/packages/9d/c3/306d090461e4cf3cd91eceaff84bede12a8e52cd821c2d20c9a4fd728385/jupyter_events-0.12.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9d/c3/306d090461e4cf3cd91eceaff84bede12a8e52cd821c2d20c9a4fd728385/jupyter_events-0.12.0.tar.gz
 Summary  : Jupyter Event System library
